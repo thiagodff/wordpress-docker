@@ -1,5 +1,7 @@
 # Wordpress com Docker
 
+Verifique se o docker está instalado `docker --version`
+
 Verifique se o docker compose está instalado `docker-compose --version`
 
 Para rodar o arquivo, execute `docker-compose up -d`
