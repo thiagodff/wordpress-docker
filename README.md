@@ -11,3 +11,11 @@ Isso vai iniciar um serviço de base de dados MySQL, providenciando credenciais 
 Agora em seu navegador entre http://localhost:8000 ou http://127.0.0.1:8000 e isso resultará na famosa tela de instação.
 
 [Docker - Dica Rápida: copiando arquivos para dentro ou fora de um container](https://medium.com/@renato.groffe/docker-dica-r%C3%A1pida-copiando-arquivos-para-dentro-ou-fora-de-um-container-5e11dd43e8f0)
+
+## Formatação Especial para Markdown
+
+Tags de teclado <br>
+<kbd>ESC</kbd>
+
+Código hexadecimal <br>
+`#2C529D`
