@@ -18,4 +18,5 @@ Tags de teclado <br>
 <kbd>ESC</kbd>
 
 Código hexadecimal <br>
-`#2C529D`
+`#2C529D` <br>
+`#C6E48B`
