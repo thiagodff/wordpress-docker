@@ -17,5 +17,8 @@ Agora em seu navegador entre http://localhost:8000 ou http://127.0.0.1:8000 e is
 Tags de teclado <br>
 <kbd>ESC</kbd>
 
-Código hexadecimal <br>
-`color: #2C529D`
+Adicione logs extensos
+<details>
+<summary>Clique aqui</summary>
+<pre>
+ola
